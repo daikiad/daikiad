@@ -16,11 +16,6 @@ Interested in rendering. I write small renderers and path tracers as a hobby.
 | [NovaRay](https://github.com/daikiad/NovaRay) | C++ path tracer with OpenUSD scenes, MIS, and an OpenGL preview | C++, OpenUSD, OpenGL |
 | [blender-lucid-renderer](https://github.com/daikiad/blender-lucid-renderer) | Blender add-on with per-pixel light-path diagnostics on a type-safe C++ core | C++, mp-units, pybind11 |
 
-## 📈 GitHub
-
-![Daiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=daikiad&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daikiad&layout=compact&hide_border=true)
-
 ## ✍️ Recent Writing
 
 - [Path Tracer Progress Part 1](https://daikiad.github.io) — 2024-08-28
