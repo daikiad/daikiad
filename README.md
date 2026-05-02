@@ -3,7 +3,7 @@
 Interested in rendering. I write small renderers and path tracers as a hobby.
 
 - 🎨 Interests: rendering, path tracing, GPU programming
-- 🧰 Languages: C, C++, Python, WGSL / Metal, Julia
+- 🧰 Languages: C, C++, Python, WGSL, Julia
 - ✍️ Writing at [daikiad.github.io](https://daikiad.github.io) / [Medium](https://medium.com/@daikiad)
 - 🏁 [AtCoder](https://atcoder.jp/users/daikiad)
 
