@@ -18,10 +18,10 @@ Interested in rendering. I write small renderers and path tracers as a hobby.
 
 ## ✍️ Recent Writing
 
-- [Path Tracer Progress Part 1](https://daikiad.github.io) — 2024-08-28
-- [Implemented a Path Tracer with WebGPU](https://daikiad.github.io) — 2024-07-06
-- [Visualize Mathematics Beautifully with Manim!](https://daikiad.github.io) — 2024-05-25
-- [Playing Around with MathJax](https://daikiad.github.io) — 2024-05-17
+- [Path Tracer Progress Part 1](https://daikiad.github.io/2024/08/28/path-tracer-progress-1.html) — 2024-08-28
+- [Implemented a Path Tracer with WebGPU](https://daikiad.github.io/2024/07/06/gpu-path-tracer.html) — 2024-07-06
+- [Visualize Mathematics Beautifully with Manim!](https://daikiad.github.io/2024/05/25/exploring-manim.html) — 2024-05-25
+- [Playing Around with MathJax](https://daikiad.github.io/2024/05/17/mathjax-hello-world.html) — 2024-05-17
 
 ## 📫 Links
 
